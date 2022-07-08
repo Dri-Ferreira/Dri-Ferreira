@@ -6,4 +6,9 @@ JavaScript,
 MySQL,
 CSS,
 HTML,
-NodeJS
+NodeJS,
+Typescript,
+ORM Prisma,
+NestJs,
+Express,
+

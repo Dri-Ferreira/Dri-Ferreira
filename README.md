@@ -1,4 +1,4 @@
-Olá, sou Adriano Hilário Ferreira 
+Olá!, Eu sou Adriano Hilário Ferreira 
 Atualmente estou estudando Análise  Desenvolvimento De Sistemas
 
 Tecnologias. 

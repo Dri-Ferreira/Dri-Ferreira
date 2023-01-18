@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Olá! eu sou Adriano Hilário Ferreira 🤙
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dri-ferreira&show_icons=true&theme=radical)
+
 
 
 
